@@ -5176,7 +5176,7 @@ img.mfp-img {
     opacity: 0;
     visibility: hidden;
     top: 0;
-    background-color: rgba(150, 4, 4, 0.8);
+    background-color: #bf0744cc;
 }
 
 .team-member-container:hover .member-caption {
