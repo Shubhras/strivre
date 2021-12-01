@@ -195,18 +195,6 @@ ul.width {
     width: 180px;
 }
 
-input.search-box-for-main {
-    border-radius: 2px;
-    border: 1px solid #b1b1b1;
-    height: 50px;
-}
-
-select.browser-default.custom-select {
-    border-radius: 2px;
-    border: 1px solid #b1b1b1;
-    height: 50px;
-}
-
 
 /* Loader */
 
