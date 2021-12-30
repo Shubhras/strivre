@@ -323,6 +323,13 @@ button:hover {
     margin: 0 0 61px;
     position: relative;
 }
+.sec-title {
+    font-size: 18px;
+    line-height: 44px;
+    color: #2c234d;
+    margin: 0 0 61px;
+    position: relative;
+}
 
 .sec-title span {
     display: block;
