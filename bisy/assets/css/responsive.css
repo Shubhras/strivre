@@ -60,6 +60,44 @@
     .hero-banner-2 .banner-thumb {
         margin-left: -90px;
     }
+
+    .join-btn {
+        width: 128px;
+        margin-left: 20px;
+        position: relative;
+        height: 44px;
+        border-radius: 3px;
+        text-align: center;
+        font-size: 13px;
+        line-height: 40px;
+        font-weight: 600;
+        padding: 0 30px;
+        color: #fff;
+        display: inline-block;
+        background: transparent;
+        border: 2px solid rgba(255, 255, 255, .2);
+    }
+
+    .navbar.navbar-expand-lg .navbar-toggler {
+        right: 0%;
+        position: absolute;
+    }
+
+    .navbar.navbar-expand-lg .navbar-collapse {
+             /* position: absolute; */
+            /* left: 549px; */
+            /* top: 71%; */
+            width: 21%;
+            /* background: #fff; */
+            border-radius: 0;
+            z-index: 99;
+            /* -webkit-box-shadow: 0px 6px 10px 0px rgb(11 2 55 / 6%); */
+            /* -moz-box-shadow: 0px 6px 10px 0px rgba(11, 02, 55, 0.06); */
+            /* box-shadow: 0px 6px 10px 0px rgb(11 2 55 / 6%); */
+        }
+        .li-media{
+            display: block;
+        }
 }
 
 @media (min-width: 1200px) {
@@ -276,6 +314,9 @@
 @media (min-width: 768px) and (max-width: 991px) {
     .course-wrapper {
         display: block;
+    }
+    button.bisylms-btn {
+        margin-bottom: 50px;
     }
     .course-item-1 {
         width: 30.3333%;
@@ -1040,6 +1081,19 @@
     }
 }
 
+@media (min-width: 1024px) and (max-width: 1200px){
+.hero-banner-1 {
+    background-position: bottom right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    padding: 276px 0 190px;
+}
+.hero-banner-1 {
+    padding-top: 165px;
+}
+}
+
 /*------------------------------------------------------------------------------------
 / 6. Responsive For Mobile Device
 --------------------------------------------------------------------------------------*/
@@ -1049,3 +1103,159 @@
         height: 1070px;
     }
 }
+
+@media (max-width: 768px){
+    .join-btn {
+        margin-left: 20px;
+        position: relative;
+        height: 44px;
+        border-radius: 3px;
+        text-align: center;
+        font-size: 13px;
+        line-height: 40px;
+        font-weight: 600;
+        padding: 0 30px;
+        color: rgb(2, 0, 0);
+        display: inline-block;
+        background: transparent;
+        border: 2px solid rgba(255, 255, 255, .2);
+    }
+
+    
+    .navbar.navbar-expand-lg .navbar-toggler {
+        right: 0%;
+        position: absolute;
+    }
+
+    .navbar.navbar-expand-lg .navbar-collapse {
+             position: absolute;
+            left: 549px;
+            top: 71%;
+            width: 21%;
+            background: #fff;
+            border-radius: 0;
+            z-index: 99;
+            -webkit-box-shadow: 0px 6px 10px 0px rgb(11 2 55 / 6%);
+            -moz-box-shadow: 0px 6px 10px 0px rgba(11, 02, 55, 0.06);
+            box-shadow: 0px 6px 10px 0px rgb(11 2 55 / 6%);
+        }
+        .li-media{
+            display: block;
+        }
+
+        /* #web {display: none;}
+        #mobile {display: block;} */
+    
+    }
+
+    
+    .li-media{
+        display: block;
+    }
+
+
+    @media (min-width: 320px) and (max-width: 425px){
+.navbar.navbar-expand-lg .navbar-collapse {
+    position: absolute;
+    left: -12px;
+    top: 71%;
+    width: 104%;
+    background: #fff;
+    border-radius: 0;
+    z-index: 99;
+    -webkit-box-shadow: 0px 6px 10px 0px rgb(11 2 55 / 6%);
+    -moz-box-shadow: 0px 6px 10px 0px rgba(11, 02, 55, 0.06);
+    box-shadow: 0px 6px 10px 0px rgb(11 2 55 / 6%);
+
+    }
+    
+    }
+    @media screen and (min-width: 320px) {
+        .hero-banner-1 {
+            background-position: 48% 100%;
+        }
+        .search_box_filter{
+            width: 320px;
+        }
+    }
+
+    @media screen and (min-width: 375px) {
+        .hero-banner-1 {
+            background-position: 50% 100%;
+        }
+        .search_box_filter{
+            width: 375px;
+        }
+    }
+
+    @media screen and (min-width: 425px) {
+        .hero-banner-1 {
+            background-position: 52% 100%;
+        }
+        .search_box_filter{
+            width: 425px;
+        }
+    }
+    @media (min-width: 320px) and (max-width: 767px){
+    button.bisylms-btn {
+        margin-bottom: 50px;
+    }
+    
+}
+
+@media screen and (min-width: 768px) {
+   
+    .search_box_filter{
+        width: 744px;
+    }
+.col-lg-123{
+    position: relative;
+    width: 37%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.letes_news{
+    width: 326px;
+}
+
+.letes_news_sidebar1{
+    margin-top: -454px;
+    margin-left: 334px;
+}
+.top_coaches_list{
+    margin-top: 119px;
+}
+.letes_news_height{
+    height: 410px;
+}
+}
+
+@media screen and (min-width: 1024px) {
+   
+    .search_box_filter{
+        width: 934px;
+    }
+}
+
+.col-lg-123{
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.letes_news{
+    /* width: 326px; */
+}
+
+.letes_news_sidebar1{
+    /* margin-top: -454px; */
+    /* margin-left: 334px; */
+}
+.top_coaches_list{
+    /* margin-top: 119px; */
+}
+.letes_news_height{
+    /* height: 410px; */
+}
+
+   

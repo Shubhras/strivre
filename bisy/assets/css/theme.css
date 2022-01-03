@@ -1375,10 +1375,12 @@ footer .widget .widget-title {
 .about-widget p {
     font-size: 15px;
     margin-bottom: 33px;
+    margin-left: 28px;
 }
 
 .ab-social {
     position: relative;
+    margin-left: 28px;
 }
 
 .ab-social a {
@@ -3739,7 +3741,7 @@ footer .widget ul li a:hover {
     width: 100%;
     height: 100%;
     content: '';
-    background-image: linear-gradient(to right, #8638fc, #7c38fc, #7138fc, #6538fc, #5838fc);
+    /* background-image: linear-gradient(to right, #8638fc, #7c38fc, #7138fc, #6538fc, #5838fc); */
     opacity: .9;
 }
 
@@ -7033,5 +7035,83 @@ Profile Page
     margin: 6px 0 3px;
     
 }
+.search_box_filter{
+    width: 1200px;
+}
 
+.col-md-8.d-flex.justify-content-center {
+    margin: auto;
+    width: 60%;
+}
 
+.btn-primary1 {
+    background-color: #5838fc;
+    border: none;
+    font-size: 13px;
+    border-radius: 3px;
+    z-index: 1;
+    font-weight: 600;
+}
+
+.loginBtn {
+    box-sizing: border-box;
+    position: relative;
+    margin: 0.2em;
+    padding: 0 15px 0 46px;
+    border: none;
+    text-align: left;
+    line-height: 34px;
+    white-space: nowrap;
+    border-radius: 0.2em;
+    font-size: 16px;
+    color: #FFF;
+}
+
+.loginBtn--google {
+    /* font-family: "Roboto", Roboto, arial, sans-serif; / */
+    background: #DD4B39;
+}
+
+.loginBtn--facebook {
+    background-color: #4C69BA;
+    background-image: linear-gradient(#4C69BA, #3B55A0);
+/* / font-family: "Helvetica neue", Helvetica Neue, Helvetica, Arial, sans-serif; / */
+    text-shadow: 0 -1px 0 #354c8c;
+}
+
+.loginBtn--google:before {
+    border-right: #BB3F30 1px solid;
+    background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/14082/icon_google.png) 6px 6px no-repeat;
+}
+
+.loginBtn:before {
+    content: "";
+    box-sizing: border-box;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 34px;
+    height: 100%;
+}
+.loginBtn--facebook:before {
+    border-right: #364e92 1px solid;
+    background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/14082/icon_facebook.png) 6px 6px no-repeat;
+}
+.loginBtn:before {
+    content: "";
+    box-sizing: border-box;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 34px;
+    height: 100%;
+}
+
+.b-btn {
+    margin-bottom: 15px;
+}
+a.btn01.btn-primary1 {
+    color: white;
+}
+/* #web {display: none;}
+#mobile {display: block;} */
