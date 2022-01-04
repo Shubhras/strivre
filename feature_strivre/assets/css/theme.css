@@ -5488,7 +5488,8 @@ Profile Page
 
 .coursepage-section-2 {
     position: relative;
-    padding: 120px 0 260px;
+    padding: 61px 0 165px;
+
 }
 
 .toolbar-wrapper-2 {
@@ -7213,4 +7214,8 @@ a.btn01.btn-primary1 {
     top: 0;
     bottom: 226px;
     margin: auto;
+}
+
+.summary{
+    height: calc(1.5em + 2.75rem + 2px);
 }
