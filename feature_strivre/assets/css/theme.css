@@ -7202,3 +7202,15 @@ a.btn01.btn-primary1 {
     /* padding-bottom: 28px; */
     margin-top: -103px;
 }
+.madels {
+    width: 56px;
+    height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    display: inline-block;
+    position: absolute;
+    right: 6px;
+    top: 0;
+    bottom: 226px;
+    margin: auto;
+}
