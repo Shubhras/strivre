@@ -767,7 +767,7 @@ nav.navbar.navbar-expand-md.navbar-light.dashboard-nav.mb-3.mb-lg-0 {
 .course-price span {
     display: block;
     font-size: 14px;
-    text-decoration: line-through;
+    /* text-decoration: line-through; */
     margin: 6px 0 0;
 }
 
@@ -5544,6 +5544,60 @@ Profile Page
     color: #5838fc;
 }
 
+
+.toolbar-wrapper-255 {
+    width: 100%;
+    position: relative;
+    padding: 0 0;
+    margin: -71px 0 40px;
+    /* display: flex; */
+    justify-content: space-between;
+}
+
+.toolbar-wrapper-255 .toolbar-btn li a i {
+    color: #5838fc;
+}
+
+.toolbar-wrapper-255 .toolbar-btn li a {
+    border-radius: 3px;
+    color: #5838fc;
+    margin-right: 6px;
+    padding: 0 22px;
+    background: rgba(88, 56, 252, 0.1);
+}
+
+.toolbar-wrapper-255 .toolbar-btn li a:after {
+    display: none;
+}
+
+.toolbar-wrapper-255 .toolbar-btn li a:hover,
+.toolbar-wrapper-255 .toolbar-btn li a.active {
+    color: #fff;
+    background: #5838fc;
+    -webkit-box-shadow: 0px 20px 30px 0px rgba(26, 8, 119, 0.24);
+    -moz-box-shadow: 0px 20px 30px 0px rgba(26, 8, 119, 0.24);
+    box-shadow: 0px 20px 30px 0px rgba(26, 8, 119, 0.24);
+}
+
+.toolbar-wrapper-255 .toolbar-btn li a:hover i,
+.toolbar-wrapper-255 .toolbar-btn li a.active i {
+    color: #fff;
+}
+
+.toolbar-wrapper-255 .sorting {
+    position: absolute;
+    right: 290px;
+}
+
+.toolbar-wrapper-255 .search-box {
+    display: inline-block;
+    border-radius: 3px;
+}
+
+.toolbar-wrapper-255 .search-box button:hover {
+    color: #5838fc;
+}
+
 .fci-3 .fci-details .c-cate:hover {
     color: #5838fc;
 }
@@ -7134,4 +7188,17 @@ a.btn01.btn-primary1 {
 }
 .search-box-fix{
     width: 421px;
+}
+.page-banner01 {
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding: 150px 0 0;
+    min-height: 150px;
+}
+.add_new_course{
+    float: right;
+    /* padding-bottom: 28px; */
+    margin-top: -103px;
 }

@@ -1245,8 +1245,15 @@
 .search-box-fix{
     width: 249px;
 }
+.search-box-fix1 {
+    width: 406px;
+}
 .search-box-font{
-    font-size: 14px;
+    font-size: 14px!important;
+}
+.btn_class_coaches{
+    height: 50px;
+    background-color: #43329f!important;
 }
 }
 
@@ -1261,6 +1268,10 @@
         /* margin-left: 350px;
         margin-top: -70px; */
         background-color: #5738FB!important;
+    }
+    .btn_class_coaches{
+        height: 50px;
+        background-color: #43329f!important;
     }
     .search_box_filterss{
         width: 437px;
@@ -1278,8 +1289,11 @@
     .search-box-fix{
         width: 336px;
     }
+    .search-box-fix1 {
+        width: 550px;
+    }
     .search-box-font{
-        font-size: 14px;
+        font-size: 14px!important;
     }
 }
 
@@ -1292,9 +1306,11 @@
 
     .btn_class{
         height: 50px;
-        /* margin-left: 350px;
-        margin-top: -70px; */
         background-color: #5738FB!important;
+    }
+    .btn_class_coaches{
+        height: 50px;
+        background-color: #43329f!important;
     }
     .search_box_filterss{
         width: 437px;
@@ -1312,8 +1328,11 @@
     .search-box-fix{
         width: 426px;
     }
+    .search-box-fix1 {
+        width: 631px;
+    }
     .search-box-font{
-        font-size: 18px;
+        font-size: 18px!important;
     }
 }
 
