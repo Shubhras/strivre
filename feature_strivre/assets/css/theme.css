@@ -7269,3 +7269,19 @@ a.btn01.btn-primary1 {
     position: relative;
     top: 5px;
   }
+  .till_date_striver{
+    width: 20%!important;
+    height: 79px;
+  }
+  .coaches_payment_data{
+    height: 89px!important;
+    margin-bottom: 0.2rem;
+  }
+  .span_text_show{
+    margin-top: -9px;
+  }
+  .coaches_get_payment{
+    width: 100%!important;
+    margin-top: 12px;
+
+  }

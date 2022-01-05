@@ -371,3 +371,53 @@ svg g path {
     -o-transition: all 0.4s ease;
     transition: all 0.4s ease;
 }
+.get-payments-btn {
+    border: none;
+    font-size: 18px;
+    font-weight: 600;
+    /* margin-top: -12px; */
+    width: 283px;
+    color: #fff;
+    background: #5838fc;
+    height: 81px;
+    /* padding: 20px 35px; */
+    text-align: center;
+    display: inline-block;
+    line-height: .8;
+    letter-spacing: 0;
+    position: relative;
+    border-radius: 3px;
+    z-index: 1;
+    cursor: pointer;
+    outline: none;
+    -webkit-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+}
+.get-payments-btn:hover {
+    /* border: none; */
+    font-size: 18px;
+    font-weight: 600;
+    /* margin-top: -12px; */
+    width: 283px;
+    color: rgb(10, 10, 10);
+    background: #f02323;
+    height: 81px;
+    /* padding: 20px 35px; */
+    text-align: center;
+    display: inline-block;
+    line-height: .8;
+    letter-spacing: 0;
+    position: relative;
+    border-radius: 3px;
+    z-index: 1;
+    cursor: pointer;
+    outline: none;
+    -webkit-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+}
+.get_coaches_add_button{
+    width: 246px;
+    
+}
