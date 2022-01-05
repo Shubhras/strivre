@@ -7285,3 +7285,20 @@ a.btn01.btn-primary1 {
     margin-top: 12px;
 
   }
+  .global_page{
+    letter-spacing: normal;
+    line-height: 24px;
+    color: #888;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    padding: 21px 112px;
+    text-align: center;
+    margin-top: -45px;
+  }
+  .hero-content_h2 {
+    font-size: 43px;
+    line-height: 72px;
+    font-weight: 800;
+    margin: -43px 20px 20px 0;
+    text-align: center;
+}
