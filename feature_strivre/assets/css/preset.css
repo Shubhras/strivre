@@ -64,6 +64,11 @@ a.join-btn01:hover {
     text-decoration: none!important;
 }
 
+a.join-btn:hover {
+    color: #5838fc!important;
+    text-decoration: none!important;
+}
+
 a:focus {
     outline: 0;
     text-shadow: none;
