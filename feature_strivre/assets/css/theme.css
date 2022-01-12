@@ -240,7 +240,31 @@ nav.navbar.navbar-expand-md.navbar-light.dashboard-nav.mb-3.mb-lg-0 {
     border: 2px solid rgba(255, 255, 255, .2);
 }
 
+.join-btn01 {
+    margin-left: 20px;
+    position: relative;
+    height: 44px;
+    border-radius: 3px;
+    text-align: center;
+    font-size: 13px;
+    line-height: 40px;
+    font-weight: 600;
+    padding: 0 30px;
+    color: #fff;
+    display: inline-block;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, .2);
+}
+
 .join-btn:hover {
+    background: #fff;
+    border-color: #fff;
+    -webkit-box-shadow: 0px 20px 30px 0px rgba(26, 8, 119, 0.24);
+    -moz-box-shadow: 0px 20px 30px 0px rgba(26, 8, 119, 0.24);
+    box-shadow: 0px 20px 30px 0px rgba(26, 8, 119, 0.24);
+}
+
+.join-btn01:hover {
     background: #fff;
     border-color: #fff;
     -webkit-box-shadow: 0px 20px 30px 0px rgba(26, 8, 119, 0.24);

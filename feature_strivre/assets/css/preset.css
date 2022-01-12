@@ -55,6 +55,11 @@ a {
 }
 
 a:hover {
+    color: #5838fc;
+    text-decoration: none;
+}
+
+a.join-btn01:hover {
     color: #5838fc!important;
     text-decoration: none!important;
 }
