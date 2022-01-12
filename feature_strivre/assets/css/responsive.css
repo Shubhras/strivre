@@ -60,7 +60,22 @@
     .hero-banner-2 .banner-thumb {
         margin-left: -90px;
     }
-
+    .join-btn01 {
+        width: 70px;
+        margin-left: 6px;
+        position: relative;
+        height: 44px;
+        border-radius: 3px;
+        text-align: center;
+        font-size: 13px;
+        line-height: 40px;
+        font-weight: 600;
+        padding: 0 0px;
+        color: #fff;
+        display: inline-block;
+        background: transparent;
+        border: 2px solid rgba(255, 255, 255, .2);
+    }
     .join-btn {
         width: 128px;
         margin-left: 20px;
