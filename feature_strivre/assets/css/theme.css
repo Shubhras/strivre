@@ -857,7 +857,7 @@ nav.navbar.navbar-expand-md.navbar-light.dashboard-nav.mb-3.mb-lg-0 {
 }
 
 .video-banner:after {
-    position: absolute;
+    /* position: absolute; */
     left: -45px;
     top: -75px;
     width: 100%;
