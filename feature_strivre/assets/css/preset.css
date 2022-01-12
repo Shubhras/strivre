@@ -55,8 +55,8 @@ a {
 }
 
 a:hover {
-    color: #5838fc;
-    text-decoration: none;
+    color: #5838fc!important;
+    text-decoration: none!important;
 }
 
 a:focus {
