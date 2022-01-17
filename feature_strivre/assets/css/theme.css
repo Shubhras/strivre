@@ -170,7 +170,7 @@ nav.navbar.navbar-expand-md.navbar-light.dashboard-nav.mb-3.mb-lg-0 {
 }
 
 .navbar-expand-lg .navbar-nav li .sub-menu li:hover>a {
-    color: #5838fc;
+    color: #012245;
 }
 
 .navbar-expand-lg .navbar-nav li:hover .sub-menu {
@@ -239,7 +239,6 @@ nav.navbar.navbar-expand-md.navbar-light.dashboard-nav.mb-3.mb-lg-0 {
     background: transparent;
     border: 2px solid rgba(255, 255, 255, .2);
 }
-
 .join-btn01 {
     margin-left: 20px;
     position: relative;
@@ -263,7 +262,6 @@ nav.navbar.navbar-expand-md.navbar-light.dashboard-nav.mb-3.mb-lg-0 {
     -moz-box-shadow: 0px 20px 30px 0px rgba(26, 8, 119, 0.24);
     box-shadow: 0px 20px 30px 0px rgba(26, 8, 119, 0.24);
 }
-
 .join-btn01:hover {
     background: #fff;
     border-color: #fff;
@@ -459,7 +457,7 @@ nav.navbar.navbar-expand-md.navbar-light.dashboard-nav.mb-3.mb-lg-0 {
     height: 0;
     border-style: solid;
     border-width: 30px 30px 0 0;
-    border-color: #5838fc #fff #fff #fff;
+    border-color: #012245 #fff #fff #fff;
     content: '';
     visibility: hidden;
     opacity: 0;
@@ -504,7 +502,7 @@ nav.navbar.navbar-expand-md.navbar-light.dashboard-nav.mb-3.mb-lg-0 {
 }
 
 .course-item-1 h4 a:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 
@@ -539,7 +537,7 @@ nav.navbar.navbar-expand-md.navbar-light.dashboard-nav.mb-3.mb-lg-0 {
 .ab-content p.mid-item {
     font-size: 20px;
     line-height: 30px;
-    color: #5838fc;
+    color: #012245;
     margin-bottom: 25px;
 }
 
@@ -576,7 +574,7 @@ nav.navbar.navbar-expand-md.navbar-light.dashboard-nav.mb-3.mb-lg-0 {
 
 .shaf-filter li:hover,
 .shaf-filter li.active {
-    color: #5838fc;
+    color: #012245;
 }
 
 .shaf-filter li:first-child {
@@ -703,7 +701,7 @@ nav.navbar.navbar-expand-md.navbar-light.dashboard-nav.mb-3.mb-lg-0 {
 }
 
 .fcf-bottom a i {
-    color: #5838fc;
+    color: #012245;
     font-size: 16px;
     position: relative;
     top: 1px;
@@ -711,7 +709,7 @@ nav.navbar.navbar-expand-md.navbar-light.dashboard-nav.mb-3.mb-lg-0 {
 }
 
 .back {
-    background: #5838fc;
+    background: #012245;
     -webkit-transform: rotateY(-180deg);
     -moz-transform: rotateY(-180deg);
     -o-transform: rotateY(-180deg);
@@ -737,7 +735,7 @@ nav.navbar.navbar-expand-md.navbar-light.dashboard-nav.mb-3.mb-lg-0 {
     background: #fff;
     font-size: 13px;
     line-height: .8;
-    color: #5838fc;
+    color: #012245;
     font-weight: 600;
     text-align: center;
     border-radius: 3px;
@@ -858,7 +856,7 @@ nav.navbar.navbar-expand-md.navbar-light.dashboard-nav.mb-3.mb-lg-0 {
 }
 
 .cta-section .bisylms-btn {
-    color: #5838fc;
+    color: #012245;
     background: #fff;
 }
 
@@ -898,7 +896,7 @@ nav.navbar.navbar-expand-md.navbar-light.dashboard-nav.mb-3.mb-lg-0 {
     border-radius: 50%;
     text-align: center;
     line-height: 80px;
-    color: #5838fc;
+    color: #012245;
     display: inline-block;
     position: absolute;
     z-index: 3;
@@ -914,7 +912,7 @@ nav.navbar.navbar-expand-md.navbar-light.dashboard-nav.mb-3.mb-lg-0 {
 }
 
 .video-banner .popup-video:hover {
-    background: #5838fc;
+    background: #012245;
     color: #fff;
 }
 
@@ -949,7 +947,7 @@ nav.navbar.navbar-expand-md.navbar-light.dashboard-nav.mb-3.mb-lg-0 {
     height: 0;
     border-style: solid;
     border-width: 30px 30px 0 0;
-    border-color: #5838fc #fff #fff #fff;
+    border-color: #012245 #fff #fff #fff;
     content: '';
     visibility: hidden;
     opacity: 0;
@@ -978,7 +976,7 @@ nav.navbar.navbar-expand-md.navbar-light.dashboard-nav.mb-3.mb-lg-0 {
     left: 50px;
     top: 40px;
     font-size: 40px;
-    color: #5838fc;
+    color: #012245;
     line-height: .8;
     text-transform: capitalize;
     font-weight: 700;
@@ -1019,7 +1017,7 @@ nav.navbar.navbar-expand-md.navbar-light.dashboard-nav.mb-3.mb-lg-0 {
 }
 
 .event-item-1 h4 a:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .event-item-1 .bisylms-btn {
@@ -1112,7 +1110,7 @@ nav.navbar.navbar-expand-md.navbar-light.dashboard-nav.mb-3.mb-lg-0 {
 .pack-price {
     display: block;
     font-size: 14px;
-    color: #5838fc;
+    color: #012245;
     line-height: .8;
     font-weight: 700;
     margin: 0 0 25px;
@@ -1153,7 +1151,7 @@ nav.navbar.navbar-expand-md.navbar-light.dashboard-nav.mb-3.mb-lg-0 {
 }
 
 .pack-meta span i {
-    color: #5838fc;
+    color: #012245;
     font-size: 16px;
     margin-right: 10px;
 }
@@ -1300,7 +1298,7 @@ nav.navbar.navbar-expand-md.navbar-light.dashboard-nav.mb-3.mb-lg-0 {
 }
 
 .bp-meta a i {
-    color: #5838fc;
+    color: #012245;
     margin-right: 9px;
     position: relative;
     top: 1px;
@@ -1311,7 +1309,7 @@ nav.navbar.navbar-expand-md.navbar-light.dashboard-nav.mb-3.mb-lg-0 {
 }
 
 .bp-meta a:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .b-post-details h3 {
@@ -1326,7 +1324,7 @@ nav.navbar.navbar-expand-md.navbar-light.dashboard-nav.mb-3.mb-lg-0 {
 }
 
 .b-post-details h3 a:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .post-item-1:hover {
@@ -1462,7 +1460,7 @@ footer .widget ul li a {
 }
 
 footer .widget ul li a:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .copyright {
@@ -1480,7 +1478,7 @@ footer .widget ul li a:hover {
 }
 
 .copyright p a {
-    color: #5838fc;
+    color: #012245;
 }
 
 .copyright p a:hover {
@@ -1559,7 +1557,7 @@ footer .widget ul li a:hover {
 }
 
 .topbar .bisylms-btn-2:hover {
-    background: #5838fc;
+    background: #012245;
 }
 
 
@@ -1758,7 +1756,7 @@ footer .widget ul li a:hover {
 }
 
 .hero-content ul li:nth-child(3) {
-    color: #5838fc;
+    color: #012245;
 }
 
 .hero-banner-2 .bisylms-btn-2 {
@@ -1980,7 +1978,7 @@ footer .widget ul li a:hover {
     background: rgba(88, 56, 252, .1);
     font-size: 13px;
     line-height: .8;
-    color: #5838fc;
+    color: #012245;
     font-weight: 600;
     text-align: center;
     border-radius: 30px;
@@ -1989,7 +1987,7 @@ footer .widget ul li a:hover {
 }
 
 .feature-course-item-2 .c-cate:hover {
-    background: #5838fc;
+    background: #012245;
     color: #fff;
 }
 
@@ -2005,7 +2003,7 @@ footer .widget ul li a:hover {
 }
 
 .feature-course-item-2 h4 a:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .feature-course-item-2 .fcf-bottom {
@@ -2125,7 +2123,7 @@ footer .widget ul li a:hover {
     -webkit-transition: all 0.4s ease;
     -o-transition: all 0.4s ease;
     transition: all 0.4s ease;
-    background-image: linear-gradient(to right top, #E92AA4, #d95566, #a33e6d, #673065, #2c234d);
+    /* background-image: linear-gradient(to right top, #E92AA4, #d95566, #a33e6d, #673065, #2c234d); */
 }
 
 .teacher-thumb img,
@@ -3766,7 +3764,7 @@ footer .widget ul li a:hover {
     width: 100%;
     height: 100%;
     content: '';
-    /* background-image: linear-gradient(to right, #8638fc, #7c38fc, #7138fc, #6538fc, #5838fc); */
+    /* background-image: linear-gradient(to right, #8638fc, #7c38fc, #7138fc, #6538fc, #012245); */
     opacity: .9;
 }
 
@@ -3819,16 +3817,16 @@ footer .widget ul li a:hover {
 .teachers-section-3 .bisylms-btn {
     margin-top: 40px;
     background: rgba(88, 56, 252, .1);
-    color: #5838fc;
+    color: #012245;
 }
 
 .teachers-section-3 .bisylms-btn:hover {
-    background: #5838fc;
+    background: #012245;
     color: #fff;
 }
 
 .teachers-section-3 .teacher-item-2 .teacher-thumb {
-    background: #5838fc;
+    background: #012245;
 }
 
 .teachers-section-3 .teacher-item-2:hover .teacher-thumb {
@@ -3838,7 +3836,7 @@ footer .widget ul li a:hover {
 }
 
 .teachers-section-3 .teacher-meta h5 a:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .abpage-section-1 {
@@ -3847,15 +3845,15 @@ footer .widget ul li a:hover {
 }
 
 .abpage-section-1 .read-more:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .abpage-section-1 .funfact-item h2 {
-    color: #5838fc;
+    color: #012245;
 }
 
 .ts-about .funfact-item-2 h2 {
-    color: #5838fc;
+    color: #012245;
 }
 
 .ab-customars-section {
@@ -3865,12 +3863,12 @@ footer .widget ul li a:hover {
 
 .ab-customars-section .bisylms-btn-2 {
     background: rgba(88, 56, 252, .1);
-    color: #5838fc;
+    color: #012245;
     border-radius: 3px;
 }
 
 .ab-customars-section .bisylms-btn-2:hover {
-    background: #5838fc;
+    background: #012245;
     color: #fff;
     -webkit-box-shadow: 0px 10px 20px 0px rgba(37, 14, 154, 0.24);
     -moz-box-shadow: 0px 10px 20px 0px rgba(37, 14, 154, 0.24);
@@ -3934,7 +3932,7 @@ footer .widget ul li a:hover {
 .single-info p i {
     font-size: 16px;
     line-height: 22px;
-    color: #5838fc;
+    color: #012245;
     position: absolute;
     left: 0;
     top: 0;
@@ -4054,7 +4052,7 @@ footer .widget ul li a:hover {
 .contact-form input[type="submit"] {
     height: 50px;
     border-radius: 3px;
-    background: #5838fc;
+    background: #012245;
     color: #fff;
     text-align: center;
     border: none;
@@ -4096,7 +4094,7 @@ footer .widget ul li a:hover {
 }
 
 .condition-check label a {
-    color: #5838fc;
+    color: #012245;
 }
 
 .condition-check label a:hover {
@@ -4123,7 +4121,7 @@ footer .widget ul li a:hover {
     bottom: 0;
     font-family: 'ElegantIcons';
     content: "\4e";
-    color: #5838fc;
+    color: #012245;
     font-size: 10px;
     left: 2px;
     position: absolute;
@@ -4243,7 +4241,7 @@ footer .widget ul li a:hover {
 .bisylms-pagination a,
 .bisylms-pagination span {
     font-size: 14px;
-    color: #5838fc;
+    color: #012245;
     font-weight: 600;
     line-height: 40px;
     background: rgba(88, 56, 252, 0.1);
@@ -4262,7 +4260,7 @@ footer .widget ul li a:hover {
 .bisylms-pagination a:hover,
 .bisylms-pagination .current {
     color: #fff;
-    background: #5838fc;
+    background: #012245;
     -webkit-box-shadow: 0px 20px 30px 0px rgba(26, 8, 119, 0.24);
     -moz-box-shadow: 0px 20px 30px 0px rgba(26, 8, 119, 0.24);
     box-shadow: 0px 20px 30px 0px rgba(26, 8, 119, 0.24);
@@ -4380,7 +4378,7 @@ footer .widget ul li a:hover {
 }
 
 .search-form button:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .blog-sidebar .widget ul {
@@ -4417,7 +4415,7 @@ footer .widget ul li a:hover {
 }
 
 .blog-sidebar .widget ul li a:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .blog-sidebar .widget ul li span {
@@ -4457,7 +4455,7 @@ footer .widget ul li a:hover {
 }
 
 .popular-post h5 a:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .popular-post span {
@@ -4487,7 +4485,7 @@ footer .widget ul li a:hover {
 }
 
 .tags a:hover {
-    background: #5838fc;
+    background: #012245;
     color: #fff;
 }
 
@@ -4581,7 +4579,7 @@ blockquote:before {
     font-family: 'Open Sans', sans-serif;
     font-size: 100px;
     line-height: 25px;
-    color: #5838fc;
+    color: #012245;
     letter-spacing: -5px;
     -moz-transform: rotate(180deg);
     -webkit-transform: rotate(180deg);
@@ -4649,7 +4647,7 @@ blockquote cite {
 }
 
 .post-tags a:hover {
-    background: #5838fc;
+    background: #012245;
     color: #fff;
 }
 
@@ -4814,7 +4812,7 @@ blockquote cite {
 }
 
 .single-comment h5 a:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .single-comment span {
@@ -4842,7 +4840,7 @@ blockquote cite {
     display: inline-block;
     font-size: 12px;
     line-height: .8;
-    color: #5838fc;
+    color: #012245;
     font-weight: 600;
 }
 
@@ -4953,7 +4951,7 @@ blockquote cite {
 .comment-form input[type="submit"] {
     height: 50px;
     border-radius: 3px;
-    background: #5838fc;
+    background: #012245;
     color: #fff;
     text-align: center;
     border: none;
@@ -5015,7 +5013,7 @@ blockquote cite {
     bottom: 0;
     font-family: 'ElegantIcons';
     content: "\4e";
-    color: #5838fc;
+    color: #012245;
     font-size: 10px;
     left: 2px;
     position: absolute;
@@ -5043,12 +5041,12 @@ Profile Page
 }
 
 .instructor-section .teacher-thumb {
-    background-image: linear-gradient(to right top, #5838fc, #4d35ce, #4230a1, #372a76, #2c234d);
+    background-image: linear-gradient(to right top, #012245, #4d35ce, #4230a1, #372a76, #2c234d);
 }
 
 .instructor-section .teacher-meta h5 a:hover,
 .instructor-section .teacher-social a:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .profile-section {
@@ -5110,7 +5108,7 @@ Profile Page
     height: 44px;
     line-height: 44px;
     background: rgba(88, 56, 252, .10);
-    color: #5838fc;
+    color: #012245;
     margin: 0 0;
     padding: 0 36px;
 }
@@ -5125,7 +5123,7 @@ Profile Page
 
 .tab-title li a.active,
 .tab-title li a:hover {
-    background: #5838fc;
+    background: #012245;
     color: #fff;
 }
 
@@ -5211,7 +5209,7 @@ Profile Page
 }
 
 .feature-course-item-4 .fci-details .c-cate:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .feature-course-item-4 .fci-details .c-cate {
@@ -5224,7 +5222,7 @@ Profile Page
 }
 
 .feature-course-item-4 .fci-details h4 a:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .feature-course-item-4 .fci-details .author {
@@ -5236,11 +5234,11 @@ Profile Page
 }
 
 .feature-course-item-4 .fci-details .author a:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .feature-course-item-4 .price-rate .course-price {
-    color: #5838fc;
+    color: #012245;
     font-size: 20px;
 }
 
@@ -5276,7 +5274,7 @@ Profile Page
 
 .restult-tab-title li a.active,
 .restult-tab-title li a:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .restult-tab-title li:last-child a {
@@ -5299,7 +5297,7 @@ Profile Page
 .result-table thead tr th {
     font-size: 14px;
     color: #fff;
-    background: #5838fc;
+    background: #012245;
     padding: 17px 30px 16px;
     font-weight: 700;
     line-height: 18px;
@@ -5427,7 +5425,7 @@ Profile Page
 .toolbar-btn li a.active i,
 .toolbar-btn li a:hover,
 .toolbar-btn li a.active {
-    color: #5838fc;
+    color: #012245;
 }
 
 .sorting {
@@ -5493,20 +5491,20 @@ Profile Page
 }
 
 .ci-3-color .fcf-bottom a i {
-    color: #5838fc;
+    color: #012245;
 }
 
 .ci-3-color .fcf-bottom a:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .ci-3-color .course-details .author a:hover,
 .ci-3-color .course-details h4 a:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .ci-3-color .price-rate .course-price {
-    color: #5838fc;
+    color: #012245;
 }
 
 
@@ -5528,12 +5526,12 @@ Profile Page
 }
 
 .toolbar-wrapper-2 .toolbar-btn li a i {
-    color: #5838fc;
+    color: #012245;
 }
 
 .toolbar-wrapper-2 .toolbar-btn li a {
     border-radius: 3px;
-    color: #5838fc;
+    color: #012245;
     margin-right: 6px;
     padding: 0 22px;
     background: rgba(88, 56, 252, 0.1);
@@ -5546,7 +5544,7 @@ Profile Page
 .toolbar-wrapper-2 .toolbar-btn li a:hover,
 .toolbar-wrapper-2 .toolbar-btn li a.active {
     color: #fff;
-    background: #5838fc;
+    background: #012245;
     -webkit-box-shadow: 0px 20px 30px 0px rgba(26, 8, 119, 0.24);
     -moz-box-shadow: 0px 20px 30px 0px rgba(26, 8, 119, 0.24);
     box-shadow: 0px 20px 30px 0px rgba(26, 8, 119, 0.24);
@@ -5568,7 +5566,7 @@ Profile Page
 }
 
 .toolbar-wrapper-2 .search-box button:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 
@@ -5582,12 +5580,12 @@ Profile Page
 }
 
 .toolbar-wrapper-255 .toolbar-btn li a i {
-    color: #5838fc;
+    color: #012245;
 }
 
 .toolbar-wrapper-255 .toolbar-btn li a {
     border-radius: 3px;
-    color: #5838fc;
+    color: #012245;
     margin-right: 6px;
     padding: 0 22px;
     background: rgba(88, 56, 252, 0.1);
@@ -5600,7 +5598,7 @@ Profile Page
 .toolbar-wrapper-255 .toolbar-btn li a:hover,
 .toolbar-wrapper-255 .toolbar-btn li a.active {
     color: #fff;
-    background: #5838fc;
+    background: #012245;
     -webkit-box-shadow: 0px 20px 30px 0px rgba(26, 8, 119, 0.24);
     -moz-box-shadow: 0px 20px 30px 0px rgba(26, 8, 119, 0.24);
     box-shadow: 0px 20px 30px 0px rgba(26, 8, 119, 0.24);
@@ -5622,11 +5620,11 @@ Profile Page
 }
 
 .toolbar-wrapper-255 .search-box button:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .fci-3 .fci-details .c-cate:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .fci-3 .enroll {
@@ -5642,16 +5640,16 @@ Profile Page
 
 .fci-3 .fci-details .author a:hover,
 .fci-3 .fci-details h4 a:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .fci-3 .price-rate .course-price {
-    color: #5838fc;
+    color: #012245;
 }
 
 .load-btn {
     margin-top: 20px;
-    color: #5838fc;
+    color: #012245;
     padding: 11px 35px;
     background: rgba(88, 56, 252, 0.1);
 }
@@ -5665,7 +5663,7 @@ Profile Page
 }
 
 .load-btn:hover {
-    background: #5838fc;
+    background: #012245;
     color: #fff;
 }
 
@@ -5743,12 +5741,12 @@ Profile Page
 }
 
 .course-sidebar .widget ul li a:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .course-sidebar .widget ul li a:hover:after {
     content: "\5a";
-    color: #5838fc;
+    color: #012245;
     -webkit-transition: all 0.4s ease;
     -o-transition: all 0.4s ease;
     transition: all 0.4s ease;
@@ -5806,7 +5804,7 @@ Profile Page
 }
 
 .price-filter ul li input[type=checkbox]:checked+label::after {
-    background: #5838fc;
+    background: #012245;
     border-radius: 0;
     width: 8px;
     height: 8px;
@@ -5823,7 +5821,7 @@ Profile Page
 }
 
 .price-filter ul li input[type=checkbox]:checked+label::before {
-    border-color: #5838fc;
+    border-color: #012245;
 }
 
 .price-filter input[type="submit"],
@@ -5831,7 +5829,7 @@ Profile Page
     border: none;
     font-size: 13px;
     font-weight: 600;
-    color: #5838fc;
+    color: #012245;
     background: rgba(88, 56, 252, 0.1);
     height: 40px;
     padding: 14px 25px;
@@ -5853,7 +5851,7 @@ Profile Page
 .price-filter input[type="submit"]:hover,
 .price-filter button:hover {
     color: #fff;
-    background: #5838fc;
+    background: #012245;
 }
 
 .latest-course {
@@ -5888,7 +5886,7 @@ Profile Page
 }
 
 .latest-course h5 a:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .latest-course .course-price {
@@ -5985,7 +5983,7 @@ Profile Page
 }
 
 .course-item-4 .course-details .c-cate:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .course-item-4 .course-details h4 {
@@ -5995,11 +5993,11 @@ Profile Page
 }
 
 .course-item-4 .course-details h4 a:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .course-item-4 .course-details .author a:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .course-item-4 .course-details .author {
@@ -6015,7 +6013,7 @@ Profile Page
 }
 
 .course-item-4 .price-rate .course-price {
-    color: #5838fc;
+    color: #012245;
     display: block;
 }
 
@@ -6073,7 +6071,7 @@ Profile Page
 
 .info-course li i {
     display: inline-block;
-    color: #5838fc;
+    color: #012245;
     font-size: 14px;
     line-height: 50px;
     margin-right: 14px;
@@ -6120,7 +6118,7 @@ Profile Page
     border-radius: 5px;
     font-size: 24px;
     font-weight: 700;
-    color: #5838fc;
+    color: #012245;
     background: rgba(88, 56, 252, 0.1);
 }
 
@@ -6202,7 +6200,7 @@ Profile Page
 
 .course-meta .author a:hover,
 .categories a:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .sc-thumb {
@@ -6266,7 +6264,7 @@ Profile Page
     top: 0;
     width: 0;
     height: 4px;
-    background: #5838fc;
+    background: #012245;
     content: '';
     margin: auto;
     -webkit-transition: all 0.4s ease;
@@ -6276,7 +6274,7 @@ Profile Page
 
 .course-tab-btn li a.active,
 .course-tab-btn li a:hover {
-    color: #5838fc;
+    color: #012245;
     border-bottom: none;
     background: #fff;
 }
@@ -6322,7 +6320,7 @@ Profile Page
 }
 
 .teacher-item-3 .teacher-meta h5 a:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .teacher-item-3 .teacher-meta span {
@@ -6357,8 +6355,8 @@ Profile Page
 
 .teacher-item-3 .teacher-social a:hover {
     color: #ffffff;
-    background: #5838fc;
-    border-color: #5838fc;
+    background: #012245;
+    border-color: #012245;
     -webkit-box-shadow: 0px 10px 20px 0px rgba(9, 111, 150, 0.30);
     -moz-box-shadow: 0px 10px 20px 0px rgba(9, 111, 150, 0.30);
     box-shadow: 0px 10px 20px 0px rgba(9, 111, 150, 0.30);
@@ -6399,7 +6397,7 @@ Profile Page
     position: absolute;
     left: 0;
     top: 0;
-    color: #5838fc;
+    color: #012245;
     font-size: 20px;
     line-height: 35px;
 }
@@ -6464,7 +6462,7 @@ Profile Page
     font-size: 24px;
     line-height: 70px;
     font-weight: 500;
-    color: #5838fc;
+    color: #012245;
     position: absolute;
     right: 27px;
     top: 0;
@@ -6514,7 +6512,7 @@ Profile Page
 
 .ci-item h5 i {
     display: inline-block;
-    color: #5838fc;
+    color: #012245;
     margin-right: 8px;
 }
 
@@ -6523,7 +6521,7 @@ Profile Page
 }
 
 .ci-item h5:hover a {
-    color: #5838fc;
+    color: #012245;
 }
 
 .ci-tools a {
@@ -6534,7 +6532,7 @@ Profile Page
 
 .ci-tools .time {
     background: rgba(88, 56, 252, .1);
-    color: #5838fc;
+    color: #012245;
     border-radius: 3px;
     height: 30px;
     text-align: center;
@@ -6545,7 +6543,7 @@ Profile Page
 }
 
 .ci-tools .time:hover {
-    background: #5838fc;
+    background: #012245;
     color: #fff;
 }
 
@@ -6556,7 +6554,7 @@ Profile Page
 }
 
 .ci-tools .lock:hover {
-    color: #5838fc;
+    color: #012245;
 }
 
 .ci-item.with-bg {
@@ -6618,7 +6616,7 @@ Profile Page
 
 .rate-box h2 {
     font-size: 60px;
-    color: #5838fc;
+    color: #012245;
     line-height: 60px;
     margin: 0 0 18px;
 }
@@ -6689,7 +6687,7 @@ Profile Page
 }
 
 .rate-item .progress-bar {
-    background: #5838fc;
+    background: #012245;
     border-radius: 30px;
 }
 
@@ -6819,7 +6817,7 @@ Profile Page
 
 .related-course-slider.owl-carousel .owl-dots button.active,
 .related-course-slider.owl-carousel .owl-dots button:hover {
-    background: #5838fc;
+    background: #012245;
 }
 
 .related-course-slider.owl-carousel .owl-dots button span {
@@ -6846,7 +6844,7 @@ Profile Page
     height: 40px;
     line-height: 42px;
     text-align: center;
-    background: #5838fc;
+    background: #012245;
     color: #fff;
     opacity: 0;
     visibility: hidden;
@@ -6874,7 +6872,7 @@ Profile Page
 /---------------------------------------------------------*/
 
 .preloader {
-    background: #5838fc;
+    background: #012245;
     width: 100%;
     height: 100%;
     position: fixed;
@@ -7054,7 +7052,7 @@ Profile Page
 }
 
 .fix-header {
-    background: #5838fc;
+    background: #012245;
     left: 0;
     position: fixed;
     right: 0;
@@ -7126,7 +7124,7 @@ Profile Page
 }
 
 .btn-primary1 {
-    background-color: #5838fc;
+    background-color: #012245;
     border: none;
     font-size: 13px;
     border-radius: 3px;
@@ -7198,7 +7196,7 @@ a.btn01.btn-primary1 {
 #mobile {display: block;} */
 .btn_class{
     height: 50px;
-    background-color: #5738FB!important;
+    background-color:#012245!important;
 }
 .search_box_filterss{
     width: 437px;
@@ -7395,7 +7393,7 @@ input#modal-description {
     height: 0;
     border-style: solid;
     border-width: 30px 30px 0 0;
-    border-color: #5838fc #fff #fff #fff;
+    border-color: #012245 #fff #fff #fff;
     content: '';
     visibility: hidden;
     opacity: 0;
@@ -7412,7 +7410,7 @@ input#modal-description {
     box-shadow: 0px 30px 50px 0px rgba(11, 02, 55, 0.10);
 }
 .course-item-01 h4 a:hover {
-    color: #5838fc;
+    color: #012245;
 }
 .course-item-01 svg {
     height: 70px;
@@ -7438,3 +7436,34 @@ input#modal-description {
 .navm{
     margin: 0 38px 0 0;
 }
+:root {
+    --base: #ffffff;
+    --bg-blend: multiply;
+    --blur: 0px;
+    --fg-blend: color;
+    --foreground:#300146;
+    --opacity: 1;
+    --spacing: 1%;
+}
+.coach-img-wrapper img {
+    filter:              grayscale(100%) contrast(1) blur(var(--blur));
+    mix-blend-mode:      var(--bg-blend);
+    object-fit:          cover;
+    opacity:             var(--opacity);
+    position:            relative;
+    width:               100%;
+  }
+  
+  .coach-img-wrapper::before {
+    background-color:    var(--foreground);
+    bottom:              0;
+    content:             '';
+    height:              100%;
+    left:                0;
+    mix-blend-mode:      var(--fg-blend);
+    position:            absolute;
+    right:               0;
+    top:                 0;
+    width:               100%;
+    z-index:             1;
+  }

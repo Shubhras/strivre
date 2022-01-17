@@ -935,6 +935,9 @@
     .join-btn {
         display: none;
     }
+    .join-btn01{
+        display: none;
+    }
     .course-wrapper {
         display: block;
     }
@@ -1135,6 +1138,21 @@
         background: transparent;
         border: 2px solid rgba(255, 255, 255, .2);
     }
+    .join-btn01 {
+        margin-left: 20px;
+        position: relative;
+        height: 44px;
+        border-radius: 3px;
+        text-align: center;
+        font-size: 13px;
+        line-height: 40px;
+        font-weight: 600;
+        padding: 0 30px;
+        color: rgb(2, 0, 0);
+        display: inline-block;
+        background: transparent;
+        border: 2px solid rgba(255, 255, 255, .2);
+    }
 
     
     .navbar.navbar-expand-lg .navbar-toggler {
@@ -1268,7 +1286,7 @@
 }
 .btn_class_coaches{
     height: 50px;
-    background-color: #43329f!important;
+    background-color: #012245!important;
 }
 }
 
@@ -1282,11 +1300,11 @@
         height: 50px;
         /* margin-left: 350px;
         margin-top: -70px; */
-        background-color: #5738FB!important;
+        background-color: #012245!important;
     }
     .btn_class_coaches{
         height: 50px;
-        background-color: #43329f!important;
+        background-color: #012245!important;
     }
     .search_box_filterss{
         width: 437px;
@@ -1321,11 +1339,11 @@
 
     .btn_class{
         height: 50px;
-        background-color: #5738FB!important;
+        background-color: #012245!important;
     }
     .btn_class_coaches{
         height: 50px;
-        background-color: #43329f!important;
+        background-color: #012245!important;
     }
     .search_box_filterss{
         width: 437px;
