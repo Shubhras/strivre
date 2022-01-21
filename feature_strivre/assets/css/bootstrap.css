@@ -1443,8 +1443,8 @@ pre code {
     }
     .col-lg-2 {
         -ms-flex: 0 0 16.666667%;
-        flex: 0 0 16.666667%;
-        max-width: 16.666667%;
+        flex: 1 0 16.666667%;
+        max-width: 23.666667%;
     }
     .col-lg-3 {
         -ms-flex: 0 0 25%;
@@ -3494,6 +3494,11 @@ input[type="button"].btn-block {
 }
 
 @media (min-width: 1200px) {
+    .col-lg-2 {
+        -ms-flex: 0 0 16.666667%;
+        flex: 0 0 16.666667%;
+        max-width: 23.666667%;
+    }
     .dropdown-menu-xl-left {
         right: auto;
         left: 0;

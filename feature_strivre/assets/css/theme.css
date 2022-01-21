@@ -2208,7 +2208,7 @@ footer .widget ul li a:hover {
 
 .teacher-meta p {
     font-size: 16px;
-    line-height: .8;
+    line-height: 1.8;
     color: #000000;
     font-weight: 600;
     margin: 0;
@@ -7467,3 +7467,104 @@ input#modal-description {
     width:               100%;
     z-index:             1;
   }
+  .main-section {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    background: #ffffff;
+}
+.strivre-img-wrapper::before {
+    background-color: var(--foreground);
+    bottom: 0;
+    content: '';
+    height: 100%;
+    left: 0;
+    mix-blend-mode: var(--fg-blend);
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 28%;
+    z-index: 1;
+}
+
+
+
+
+.card {
+    position: relative;
+   
+    display: flex;
+    
+
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+   
+}
+.card-block {
+    padding: 1.25rem;
+}
+.card-footer:last-child {
+    border-radius: 0 0 calc(0.25rem - 1px) calc(0.25rem - 1px);
+}.card .card-footer {
+    background-color: #fff;
+    border-top: none;
+}
+.bg-c-yellow {
+   
+    background: linear-gradient(to right, #fe9365, #feb798);
+}
+.card-footer {
+    padding: 0.75rem 1.25rem;
+}
+.text-c-yellow {
+    color: #fe9365;
+}
+.f-w-600 {
+    font-weight: 600;
+}
+.h4, h4 {
+    font-size: 1.5rem;
+}.text-muted {
+    color: #919aa3 !important;
+}
+.f-28 {
+    font-size: 28px;
+}
+.feather {
+    font-family: 'feather' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+   
+}
+.icon-calendar:before {
+    content: "\e83a";
+}
+
+.text-right {
+    text-align: right!important;
+}
+.text-c-blue {
+    color: #01a9ac;
+}
+.bg-c-blue {
+    
+    background: linear-gradient(to right, #01a9ac, #01dbdf);
+}
+.text-c-pink {
+    color: #fe5d70;
+}
+.bg-c-pink {
+   
+    background: linear-gradient(to right, #fe5d70, #fe909d);
+}
+.main
+{
+    background-color: #FFFFFF;
+}
