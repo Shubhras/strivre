@@ -7568,3 +7568,8 @@ input#modal-description {
 {
     background-color: #FFFFFF;
 }
+
+.main-section-new {
+    padding-top: 1px;
+    background: #EA2AA4;
+}
