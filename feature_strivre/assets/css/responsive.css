@@ -74,7 +74,7 @@
         color: #fff;
         display: inline-block;
         background: transparent;
-        border: 2px solid rgba(255, 255, 255, .2);
+        border: 2px solid rgb(255 255 255 / 92%);
     }
     .join-btn {
         width: 128px;
@@ -90,7 +90,7 @@
         color: #fff;
         display: inline-block;
         background: transparent;
-        border: 2px solid rgba(255, 255, 255, .2);
+        border: 2px solid rgb(255 255 255 / 92%);
     }
 
     .navbar.navbar-expand-lg .navbar-toggler {
@@ -1165,7 +1165,7 @@
         color: rgb(2, 0, 0);
         display: inline-block;
         background: transparent;
-        border: 2px solid rgba(255, 255, 255, .2);
+        border: 2px solid rgb(255 255 255 / 92%);
     }
     .join-btn01 {
         margin-left: 20px;
@@ -1180,7 +1180,7 @@
         color: rgb(2, 0, 0);
         display: inline-block;
         background: transparent;
-        border: 2px solid rgba(255, 255, 255, .2);
+        border: 2px solid rgb(255 255 255 / 92%);
     }
 
     

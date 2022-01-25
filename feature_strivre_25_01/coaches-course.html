@@ -1,0 +1,657 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Strivre</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+
+    <!-- Start Include All CSS -->
+    <link rel="stylesheet" href="assets/css/bootstrap.css" />
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="assets/css/elegant-icons.css" />
+    <link rel="stylesheet" href="assets/css/themify-icons.css" />
+    <link rel="stylesheet" href="assets/css/animate.css" />
+    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="assets/css/slick.css">
+    <link rel="stylesheet" href="assets/css/nice-select.css">
+    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
+    <link rel="stylesheet" href="assets/css/lightcase.css">
+    <link rel="stylesheet" href="assets/css/preset.css" />
+    <link rel="stylesheet" href="assets/css/theme.css" />
+    <link rel="stylesheet" href="assets/css/responsive.css" />
+    <!-- End Include All CSS -->
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+
+    <!-- Favicon Icon -->
+    <link rel="icon" type="image/png" href="assets/images/favicon.png">
+    <!-- Favicon Icon -->
+</head>
+
+<body>
+
+    <!-- Preloader Icon -->
+    <div class="preloader">
+        <div class="loaderInner">
+            <div id="top" class="mask">
+                <div class="plane"></div>
+            </div>
+            <div id="middle" class="mask">
+                <div class="plane"></div>
+            </div>
+            <div id="bottom" class="mask">
+                <div class="plane"></div>
+            </div>
+            <p>LOADING...</p>
+        </div>
+    </div>
+    <!-- Preloader Icon -->
+
+    <!-- Header Start -->
+    <header class="header-01 sticky">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <nav class="navbar navbar-expand-lg">
+                        <!-- logo Start-->
+                        <a class="navbar-brand" href="index.html">
+                            <img src="assets/images/logo4.png" alt="">
+                            <img class="sticky-logo" src="assets/images/logo4.png" alt="">
+                        </a>
+                        <!-- logo End-->
+
+                        <!-- Moblie Btn Start -->
+                        <button class="navbar-toggler" type="button">
+                            <i class="fal fa-bars"></i>
+                        </button>
+                        <!-- Moblie Btn End -->
+
+                        <!-- Nav Menu Start -->
+                        <div class="collapse navbar-collapse">
+                            <ul class="navbar-nav">
+                                <li class="menu-item-has-children">
+                                    <a href="index.html">Home</a>
+                                   
+                                </li>
+                                <li class="menu-item-has-children">
+                                    <a href="coaches-list.html">Categories</a>
+                                   
+                                </li>
+                                <li class="menu-item-has-children">
+                                    <a href="about-us.html">About Us</a>
+                                    
+                                </li>
+                                <li class="menu-item-has-children">
+                                    <a href="global.html">Pricing</a>
+                                   
+                                </li>
+                                <li>
+                                    <a href="contact.html">Contact</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- Nav Menu End -->
+
+                        <!-- User Btn -->
+                        <!-- <a href="#" class="user-btn"><i class="fas fa-user"></i></a> -->
+                        <!-- User Btn -->
+                        <a href="login.html" class="join-btn ">Login</a>
+                        <a href="join-us.html" class="join-btn">Sign Up</a>
+                        <!-- Join Btn -->
+                        <!-- <a href="#" class="join-btn">Join for Free</a> -->
+                        <!-- Join Btn -->
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- Header End -->
+
+    <!-- Banner Start -->
+    <section class="page-banner01" style="background-image: url(assets/images/home/cta-bg.jpg);">
+       
+    </section>
+    <!-- Banner End -->
+
+    <!-- Course Section Start -->
+    <section class="coursepage-section-2">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="toolbar-wrapper-255">
+                        <!-- <ul class="toolbar-btn nav nav-tabs">
+                            <li><a class="active" href="#grid" data-toggle="tab"><i class="fas fa-th"></i>Grid</a></li>
+                            <li><a href="#list" data-toggle="tab"><i class="fas fa-list"></i>List</a></li>
+                        </ul> -->
+                        <h2>
+           
+                            <h2 class="sec-title">Consultation</h2>
+                        </h2>
+
+                        <a type="button" class="bisylms-btn text-white add_new_course" data-toggle="modal" data-target="#exampleModal"><i class="fas fa-plus pr-2"></i> Add New
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Button trigger modal -->
+
+
+            <!-- Modal -->
+            <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog modal-lg" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel">Add New Consultation</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+                        </div>
+                        <div class="modal-body contact-form dform">
+                            <form>
+                              
+                                <div class="col-md-12 row">
+                                    <div class="col-md-4">
+                                    <label class="form-label" for="address">Name
+                                    </label></div>
+                                    <div class="col-md-8">
+                                    <input type="text" id="address" class="form-control" required />
+                                </div></div>
+                                <div class="col-md-12 row">
+                                    <div class="col-md-4">
+                                        <label class="form-label" for="address">Hours
+                                        </label></div>
+                                        <div class="col-md-8">
+                                        <input type="text" id="address" class="form-control" required />
+                                    </div>
+                                </div>
+                                <div class="col-md-12 row">
+                                    <div class="col-md-4">
+                                        <label class="form-label" for="address">Payment/Hours
+
+                                        </label></div>
+                                        <div class="col-md-8 ">
+                                        <input type="text" id class="form-control summary" required />
+                                    </div>
+                                </div>
+                                <div class="col-md-12 row">
+                                    <div class="col-md-4">
+                                        <label class="form-label" for="address">Description
+                                        </label></div>
+                                        <div class="col-md-8">
+                                        <input type="text" id="modal-description" class="form-control" required />
+                                    </div>
+                                </div>
+                                    <br>
+                                    <br>
+                                    
+                                    <div class="col-md-12">
+                                        <center> <a class="bisylms-btn col-sm-3" href="coaches-course.html">Submit</a></center>
+                                    </div>
+                                    
+                            </form>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+
+                <div class="col-lg-3">
+
+                    <nav class="navbar navbar-expand-md navbar-light  dashboard-nav mb-3 mb-lg-0 ">
+                        <a class="d-xl-none d-lg-none d-md-none text-inherit  font-weight-bold" href="#">Menu</a>
+                        <button class="navbar-toggler d-md-none icon-shape icon-sm rounded bg-primary text-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="fas fa-bars"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                            <div class="navbar-nav flex-column w-100 ">
+                                <div class="border-bottom py-4 p-md-4 d-flex justify-content-between text-reset">
+                                    <div class="d-flex align-items-center">
+                                        <img src="../assets/images/avatar-1.png" alt="" class="rounded-circle avatar-lg">
+                                        <div class="ms-3 lh-1">
+                                            <h5 class="mb-1 ">Coach Dashboard</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="py-4 p-md-4 ">
+                                    <!-- <span class="heading ">Account</span> -->
+                                    <ul class="list-unstyled mb-4 mt-2">
+                                        <li class="nav-item ">
+                                            <a class="nav-link" href="coach-dashboard.html">Dashboard</a>
+                                        </li>
+                                        <li class="nav-item ">
+                                            <a class="nav-link " href="coach-edit-profile.html">Edit Profile</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link " href="coaches-my-strivres.html">My Strivre</a>
+                                        </li>
+                                        <li class="nav-item ">
+                                            <a class="nav-link active" href="coaches-course.html">Consultation</a>
+                                        </li>
+                                        <li class="nav-item ">
+                                            <a class="nav-link" href="coaches-payments.html">Payments</a>
+                                        </li>
+                                       
+                                    </ul>
+                                   
+                                </div>
+                            </div>
+                        </div>
+                    </nav>
+
+
+                </div>
+
+
+                <div class="col-lg-9">
+                    <!-- Tab Content -->
+                    <div class="tab-content">
+                        <!-- Grid Tab -->
+                        <div class="tab-pane fade show in active" id="grid" role="tabpanel">
+                            <div class="row">
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="feature-course-item-4">
+                                        <div class="fcf-thumb">
+                                            <img src="assets/images/profile/1.jpg" alt="">
+                                            <!-- <a class="enroll" href="#">Enroll Now</a> -->
+                                        </div>
+                                        <div class="fci-details">
+                                            <a href="#" class="c-cate"><i class="fas fa-tags"></i>Computer Science</a>
+                                            <h4><a href="single-course.html">Using Creative Problem Solving</a></h4>
+                                            <div class="author">
+                                                <img src="assets/images/home3/course/a1.png" alt="">
+                                                <a href="#">Anthony</a>
+                                            </div>
+                                            <div class="price-rate">
+                                                <div class="course-price">
+                                                    20 Hours
+                                                  
+                                                </div>
+                                               
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="feature-course-item-4">
+                                        <div class="fcf-thumb">
+                                            <img src="assets/images/profile/2.jpg" alt="">
+                                        </div>
+                                        <div class="fci-details">
+                                            <a href="#" class="c-cate"><i class="fas fa-tags"></i>Art &amp; Design</a>
+                                            <h4><a href="single-course.html">The Art of Black and White Photography</a>
+                                            </h4>
+                                            <div class="author">
+                                                <img src="assets/images/home3/course/a2.png" alt="">
+                                                <a href="#">Giles Posture</a>
+                                            </div>
+                                            <div class="price-rate">
+                                                <div class="course-price">
+                                                    20 Hours
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="feature-course-item-4">
+                                        <div class="fcf-thumb">
+                                            <img src="assets/images/profile/3.jpg" alt="">
+                                        </div>
+                                        <div class="fci-details">
+                                            <a href="#" class="c-cate"><i class="fas fa-tags"></i>Business Study</a>
+                                            <h4><a href="single-course.html">Learning jQuery mobile for Beginners</a>
+                                            </h4>
+                                            <div class="author">
+                                                <img src="assets/images/home3/course/a3.png" alt="">
+                                                <a href="#">Hans Down</a>
+                                            </div>
+                                            <div class="price-rate">
+                                                <div class="course-price">
+                                                    20 Hours
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="feature-course-item-4">
+                                        <div class="fcf-thumb">
+                                            <img src="assets/images/profile/4.jpg" alt="">
+                                        </div>
+                                        <div class="fci-details">
+                                            <a href="#" class="c-cate"><i class="fas fa-tags"></i>Data Science</a>
+                                            <h4><a href="single-course.html">Buddhism and modern Psychology</a></h4>
+                                            <div class="author">
+                                                <img src="assets/images/home3/course/a4.png" alt="">
+                                                <a href="#">Richard Tea</a>
+                                            </div>
+                                            <div class="price-rate">
+                                                <div class="course-price">
+                                                    30 Hours
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="feature-course-item-4">
+                                        <div class="fcf-thumb">
+                                            <img src="assets/images/profile/6.jpg" alt="">
+                                        </div>
+                                        <div class="fci-details">
+                                            <a href="#" class="c-cate"><i class="fas fa-tags"></i>UI/UX Design</a>
+                                            <h4><a href="single-course.html">Fundamentals of UI Design</a></h4>
+                                            <div class="author">
+                                                <img src="assets/images/home3/course/a5.png" alt="">
+                                                <a href="#">Weir Doe</a>
+                                            </div>
+                                            <div class="price-rate">
+                                                <div class="course-price">
+                                                    25 Hours
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="feature-course-item-4">
+                                        <div class="fcf-thumb">
+                                            <img src="assets/images/profile/5.jpg" alt="">
+                                        </div>
+                                        <div class="fci-details">
+                                            <a href="#" class="c-cate"><i class="fas fa-tags"></i>Web Development</a>
+                                            <h4><a href="single-course.html">Making music with Other people</a></h4>
+                                            <div class="author">
+                                                <img src="assets/images/home3/course/a6.png" alt="">
+                                                <a href="#">Hilary Ouse</a>
+                                            </div>
+                                            <div class="price-rate">
+                                                <div class="course-price">
+                                                    25 Hours
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                              
+                                
+                            </div>
+                            <!-- Pagination -->
+                            <!-- <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="bisylms-pagination">
+                                        <span class="current">01</span>
+                                        <a href="#">02</a>
+                                        <a class="next" href="#">next<i class="arrow_right"></i></a>
+                                    </div>
+                                </div>
+                            </div> -->
+                            <!-- Pagination -->
+                        </div>
+                        <!-- Grid Tab -->
+
+                        <!-- List Tab -->
+                        <div class="tab-pane fade in" id="list" role="tabpanel">
+
+                            <div class="course-item-4">
+                                <div class="ci-thumb">
+                                    <img src="assets/images/course/l1.jpg" alt="">
+                                </div>
+                                <div class="course-details">
+                                    <a href="#" class="c-cate"><i class="fas fa-tags"></i>Computer Science</a>
+                                    <h4><a href="single-course.html">Using creative problem Solving</a></h4>
+                                    <div class="author">
+                                        <img src="assets/images/home3/course/a1.png" alt="">
+                                        <a href="#">Anthony</a>
+                                    </div>
+                                    <div class="price-rate">
+                                        <div class="course-price">
+                                          
+                                            <span>$42.85</span>
+                                        </div>
+                                       
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="course-item-4">
+                                <div class="ci-thumb">
+                                    <img src="assets/images/course/l2.jpg" alt="">
+                                </div>
+                                <div class="course-details">
+                                    <a href="#" class="c-cate"><i class="fas fa-tags"></i>Art & Design</a>
+                                    <h4><a href="single-course.html">The Art of Black and White Photography</a></h4>
+                                    <div class="author">
+                                        <img src="assets/images/home3/course/a2.png" alt="">
+                                        <a href="#">Giles Posture</a>
+                                    </div>
+                                    <div class="price-rate">
+                                        <div class="course-price">
+                                            $75.00
+                                            <span>$92.00</span>
+                                        </div>
+                                        <div class="ratings">
+                                            <i class="fas fa-star"></i>
+                                            <span>4.5 (2,420)</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="course-item-4">
+                                <div class="ci-thumb">
+                                    <img src="assets/images/course/l3.jpg" alt="">
+                                </div>
+                                <div class="course-details">
+                                    <a href="#" class="c-cate"><i class="fas fa-tags"></i>Business Study</a>
+                                    <h4><a href="single-course.html">Learning jQuery mobile for Beginners</a></h4>
+                                    <div class="author">
+                                        <img src="assets/images/home3/course/a3.png" alt="">
+                                        <a href="#">Hans Down</a>
+                                    </div>
+                                    <div class="price-rate">
+                                        <div class="course-price">
+                                            $53.00
+                                            <span>$74.00</span>
+                                        </div>
+                                        <div class="ratings">
+                                            <i class="fas fa-star"></i>
+                                            <span>4.5 (2,420)</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="course-item-4">
+                                <div class="ci-thumb">
+                                    <img src="assets/images/course/l4.jpg" alt="">
+                                </div>
+                                <div class="course-details">
+                                    <a href="#" class="c-cate"><i class="fas fa-tags"></i>Data Science</a>
+                                    <h4><a href="single-course.html">Buddhism and modern Psychology</a></h4>
+                                    <div class="author">
+                                        <img src="assets/images/home3/course/a4.png" alt="">
+                                        <a href="#">Richard Tea</a>
+                                    </div>
+                                    <div class="price-rate">
+                                        <div class="course-price">
+                                            $62.00
+                                            <span>$97.00</span>
+                                        </div>
+                                        <div class="ratings">
+                                            <i class="fas fa-star"></i>
+                                            <span>4.5 (2,420)</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="course-item-4">
+                                <div class="ci-thumb">
+                                    <img src="assets/images/course/l5.jpg" alt="">
+                                </div>
+                                <div class="course-details">
+                                    <a href="#" class="c-cate"><i class="fas fa-tags"></i>Web Development</a>
+                                    <h4><a href="single-course.html">Making music with Other people</a></h4>
+                                    <div class="author">
+                                        <img src="assets/images/home3/course/a5.png" alt="">
+                                        <a href="#">Hilary Ouse</a>
+                                    </div>
+                                    <div class="price-rate">
+                                        <div class="course-price">
+                                            $34.00
+                                            <span>$55.00</span>
+                                        </div>
+                                        <div class="ratings">
+                                            <i class="fas fa-star"></i>
+                                            <span>4.5 (2,420)</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="course-item-4">
+                                <div class="ci-thumb">
+                                    <img src="assets/images/course/l6.jpg" alt="">
+                                </div>
+                                <div class="course-details">
+                                    <a href="#" class="c-cate"><i class="fas fa-tags"></i>UI/UX Design</a>
+                                    <h4><a href="single-course.html">Fundamentals of <br>UI Design</a></h4>
+                                    <div class="author">
+                                        <img src="assets/images/home3/course/a6.png" alt="">
+                                        <a href="#">Weir Doe</a>
+                                    </div>
+                                    <div class="price-rate">
+                                        <div class="course-price">
+                                            Free
+                                            <span>$76.85</span>
+                                        </div>
+                                        <div class="ratings">
+                                            <i class="fas fa-star"></i>
+                                            <span>4.5 (2,420)</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Pagination -->
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="bisylms-pagination">
+                                        <span class="current">01</span>
+                                        <a href="#">02</a>
+                                        <a class="next" href="#">next<i class="arrow_right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Pagination -->
+                        </div>
+                        <!-- Grid Tab -->
+                    </div>
+                    <!-- Tab Content -->
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!-- Course Section End -->
+
+    <!-- Footer Section Start -->
+    <footer class="footer-1 pd-top-90">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-3">
+                    <aside class="widget">
+                        <div class="about-widget">
+                            <a href="index.html"><img src="assets/images/logo.png" alt=""></a>
+                            <p>
+                                Lost the plot Richard you mug cup of tea knackered boot bender.
+                            </p>
+                            <div class="ab-social">
+                                <a class="fac" href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a class="twi" href="#"><i class="fab fa-twitter"></i></a>
+                                <a class="you" href="#"><i class="fab fa-youtube"></i></a>
+                                <a class="lin" href="#"><i class="fab fa-linkedin"></i></a>
+                            </div>
+                        </div>
+                    </aside>
+                </div>
+                <div class="col-lg-3 col-md-3">
+                    <aside class="widget">
+                        <h3 class="widget-title">Explore</h3>
+                        <ul>
+                            <li><a href="#">About Us</a></li>
+                            <li><a href="#">Success Story</a></li>
+                            <li><a href="#">Careers</a></li>
+                            <li><a href="#">Resource Center</a></li>
+                            <li><a href="#">Courses</a></li>
+                            <li><a href="#">Contact Us</a></li>
+                        </ul>
+                    </aside>
+                </div>
+                <div class="col-lg-3 col-md-3">
+                    <aside class="widget">
+                        <h3 class="widget-title">Catecories</h3>
+                        <ul>
+                            <li><a href="#">All Courses</a></li>
+                            <li><a href="#">Storytelling & Voice Over</a></li>
+                            <li><a href="#">Digital Marketing</a></li>
+                            <li><a href="#">Design & Branding</a></li>
+                            <li><a href="#">Nanodegree Plus</a></li>
+                            <li><a href="#">Veterans</a></li>
+                        </ul>
+                    </aside>
+                </div>
+                <div class="col-lg-2 col-md-3">
+                    <aside class="widget">
+                        <h3 class="widget-title">Support</h3>
+                        <ul>
+                            <li><a href="#">Help Center</a></li>
+                            <li><a href="#">System Requirements</a></li>
+                            <li><a href="#">Register Activation Key</a></li>
+                            <li><a href="#">Site Feedback</a></li>
+                            <li><a href="#">Documentation</a></li>
+                            <li><a href="#">Forums</a></li>
+                        </ul>
+                    </aside>
+                </div>
+            </div>
+            <!-- Copyrigh -->
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <div class="copyright">
+                        <p>© 2021 Copyright all Right Reserved Design by <a href="#">Strivre</a></p>
+                    </div>
+                </div>
+            </div>
+            <!-- Copyrigh -->
+        </div>
+    </footer>
+    <!-- Footer Section End -->
+
+    <!-- Back To Top -->
+    <a href="#" id="back-to-top">
+        <i class="fal fa-angle-double-up"></i>
+    </a>
+    <!-- Back To Top -->
+
+    <!-- Start Include All JS -->
+    <script src="assets/js/jquery.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/jquery.appear.js"></script>
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <script src="assets/js/slick.js"></script>
+    <script src="assets/js/jquery.nice-select.min.js"></script>
+    <script src="assets/js/swiper-bundle.min.js"></script>
+    <script src="assets/js/TweenMax.min.js"></script>
+    <script src="assets/js/lightcase.js"></script>
+    <script src="assets/js/jquery.plugin.min.js"></script>
+    <script src="assets/js/jquery.countdown.min.js"></script>
+    <script src="assets/js/jquery.easing.1.3.js"></script>
+    <script src="assets/js/jquery.shuffle.min.js"></script>
+
+    <script src="assets/js/theme.js"></script>
+    <!-- End Include All JS -->
+
+</body>
+
+</html>

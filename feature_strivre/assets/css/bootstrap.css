@@ -7093,7 +7093,7 @@ button.bg-secondary:focus {
 }
 
 .bg-success {
-    background-color: #28a745 !important;
+    background-color: #024a96 !important;
 }
 
 a.bg-success:hover,
@@ -7126,7 +7126,7 @@ button.bg-warning:focus {
 }
 
 .bg-danger {
-    background-color: #dc3545 !important;
+    background-color: #62adfc !important;
 }
 
 a.bg-danger:hover,
@@ -7148,7 +7148,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-    background-color: #343a40 !important;
+    background-color: #0263c9 !important;
 }
 
 a.bg-dark:hover,

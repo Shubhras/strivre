@@ -237,7 +237,7 @@ nav.navbar.navbar-expand-md.navbar-light.dashboard-nav.mb-3.mb-lg-0 {
     color: #fff;
     display: inline-block;
     background: transparent;
-    border: 2px solid rgba(255, 255, 255, .2);
+    border: 2px solid rgb(255 255 255 / 92%);
 }
 .join-btn01 {
     margin-left: 20px;
@@ -252,7 +252,7 @@ nav.navbar.navbar-expand-md.navbar-light.dashboard-nav.mb-3.mb-lg-0 {
     color: #fff;
     display: inline-block;
     background: transparent;
-    border: 2px solid rgba(255, 255, 255, .2);
+    border: 2px solid rgb(255 255 255 / 92%);
 }
 
 .join-btn:hover {
@@ -3484,7 +3484,11 @@ footer .widget ul li a:hover {
 
 
 /*---- Funfact Section ------*/
-
+.funfact-section-blue {
+    background-color: #012245;
+    position: relative;
+    padding: 120px 0px 65px 0px;
+}
 .funfact-section {
     position: relative;
     padding: 65px 120px 120px;
@@ -7309,6 +7313,16 @@ a.btn01.btn-primary1 {
     margin-top: 12px;
 
   }
+  .global_page_white{
+    letter-spacing: normal;
+    line-height: 24px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    padding: 21px 112px;
+    text-align: center;
+    margin-top: -45px;
+  }
   .global_page{
     letter-spacing: normal;
     line-height: 24px;
@@ -7500,6 +7514,7 @@ input#modal-description {
     word-wrap: break-word;
     background-color: #fff;
     background-clip: border-box;
+    box-shadow: 5px 5px #888888!important;
    
 }
 .card-block {
@@ -7571,5 +7586,10 @@ input#modal-description {
 
 .main-section-new {
     padding-top: 1px;
-    background: #EA2AA4;
+    background: #012245;
+
+}
+.fwhite
+{
+    color: #ffffff;   
 }
